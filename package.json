@@ -4,10 +4,10 @@
   "version": "2.2.0",
   "type": "module",
   "license": "MIT",
-  "author": "Samhir Tarif",
+  "author": "PhamDacThanh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samhirtarif/react-audio-recorder.git"
+    "url": "https://github.com/phamdacthanh197/react-audio-recorder.git"
   },
   "keywords": [
     "react",
